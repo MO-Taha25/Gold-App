@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859663979666",
+    "project_id": "goldapp-aba0c",
+    "storage_bucket": "goldapp-aba0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859663979666:android:c3ca6a66b024bf24dc824b",
+        "android_client_info": {
+          "package_name": "com.example.untitled6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxzgyMazpJBqyvlxFaqBm-b0S_Trgih4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
